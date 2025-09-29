@@ -116,5 +116,3 @@ This document outlines the complete list of tasks required to develop the golf s
 * Develop algorithms to synchronize sensor data with video recordings for comprehensive swing analysis.
 * Test the integration setup to ensure reliable data transmission and accurate swing tracking enhancement.
 * Implement error handling to manage connection issues or sensor malfunctions during use.
-* Refine data visualization within the app to incorporate insights from# Paturu-2025-PPP
-This is my personal passion project for spark 2025-2026
